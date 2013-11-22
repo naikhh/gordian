@@ -1,4 +1,4 @@
 gordian
 =======
-source files forimplementing the gordian algorithm 
+source files for implementing the gordian algorithm 
 for cell placement in VLSI physical design automation
